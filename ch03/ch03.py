@@ -42,7 +42,7 @@ sys.path.insert(0, '..')
 d = {
     'numpy': '1.21.2',
     'matplotlib': '3.4.3',
-    'sklearn': '1.0',
+    'scikit-learn': '1.0',
     'pandas': '1.3.2'
 }
 check_packages(d)
